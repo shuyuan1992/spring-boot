@@ -1,2 +1,2 @@
 # spring-boot
-study spring boot auto configure
+system study spring boot
